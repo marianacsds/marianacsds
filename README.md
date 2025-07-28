@@ -4,7 +4,6 @@
 
 Olá! Sou Mariana Camila, pernambucana, apaixonada por dados, tecnologia e aprendizado contínuo. Tenho experiência com planejamento, liderança e áreas administrativas, e atualmente estou em transição de carreira para a área de tecnologia, com foco em análise de dados, BI e programação com Python.
 
-Estou em constante evolução, desenvolvendo projetos com visualizações no Looker Studio, dashboards com planilhas Google, além de aprender linguagens como Python, SQL e ferramentas de versionamento como Git e GitHub. Aqui você vai encontrar meus estudos, experimentos e projetos reais!
 
 ---
 
